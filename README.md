@@ -1,4 +1,4 @@
-# 🧠 Finance AI Agent - Powered by Phidata Playground
+# Finance AI Agent - Powered by Phidata Playground
 
 This project is a fully agentic financial assistant that can:
 
